@@ -98,6 +98,3 @@ print("----- HOUSING DATASET METRICS -----")
 print(f"Linear Regression MSE: {mse_lin_housing:.2f}, R2: {r2_lin_housing:.2f}")
 print(f"SVM Regressor MSE: {mse_svr_housing:.2f}, R2: {r2_svr_housing:.2f}")
 
-import matplotlib.pyplot as plt
-import seaborn as sns
-
